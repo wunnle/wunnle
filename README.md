@@ -1,4 +1,4 @@
-# Hi, I’m Sinan 👋
+# Hi, I’m Sinan 🖖
 ## I'm a web developer and UI/UX designer
 
 I’m an Istanbul based front-end developer and designer, working with companies worldwide for over 10 years. I’m experienced in HTML5, JS and CSS3 and modern libraries React, Gatsby and Next.js.
