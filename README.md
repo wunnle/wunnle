@@ -5,11 +5,11 @@ I’m an Istanbul based front-end developer and designer, working with companies
 
 Currently working as design lead & front-end dev on SwayPay, a startup from San Francisco.
 
-⚛️ I'm also organizing a group for React developers in Istanbul. [Join us on Kommunity](https://kommunity.com/reactjs-istanbul)!
+⚛️ &nbsp;I'm also organizing a group for React developers in Istanbul. [Join us on Kommunity](https://kommunity.com/reactjs-istanbul)!
 
 See my portfolio: [wunnle.dev](https://wunnle.dev/)  
 Check out my blog: [wunnle.com](https://wunnle.com/)  
-📫 Contact me on (twitter)[https://twitter.com/wunnle] or send me an [email](mailto:me@wunnle.com?subject=Hi%20from%20GitHub)
+📫 &nbsp;Contact me on [twitter](https://twitter.com/wunnle) or send me an [email](mailto:me@wunnle.com?subject=Hi%20from%20GitHub)
 
 
 
